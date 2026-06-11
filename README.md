@@ -34,10 +34,14 @@ This public repository is a portfolio case study and does not include proprietar
 ![Scan Results](https://github.com/derrickasmall-svg/resume-match-ats-optimizer-case-study/blob/main/screenshots/56FE9E2F-8722-47A1-80B5-1616C6B95E99.png)
 
 ### Job Tracker
-![Job Tracker](screenshots/job-tracker.png)
+![Job Tracker](https://github.com/derrickasmall-svg/resume-match-ats-optimizer-case-study/blob/main/screenshots/367B2ABC-96D5-4CBA-928F-A4692EA46CA2.png)
 
 ### Cover Letter Generator
-![Cover Letter Generator](screenshots/cover-letter-generator.png)
+![Cover Letter Generator](https://github.com/derrickasmall-svg/resume-match-ats-optimizer-case-study/blob/main/screenshots/25BAB717-2B10-40C9-A488-31A9200FB30A_1_105_c.jpeg)
+![Cover Leter Results](https://github.com/derrickasmall-svg/resume-match-ats-optimizer-case-study/blob/main/screenshots/35B477F6-895B-41BF-88CB-84E2CF4ACD4C.png)
+
+### Resume Match
+![Resume Match](https://github.com/derrickasmall-svg/resume-match-ats-optimizer-case-study/blob/main/screenshots/DA70DB04-C468-4F4F-8067-3648512B9E39.png)
 
 ## Architecture Summary
 
