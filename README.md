@@ -29,7 +29,7 @@ This public repository is a portfolio case study and does not include proprietar
 ## Screenshots
 
 ### Resume Scanner
-![Resume Scanner](screenshots/scanner-results.png)
+![Resume Scanner](https://github.com/derrickasmall-svg/resume-match-ats-optimizer-case-study/blob/main/screenshots/077AB2A1-0E25-42E1-AEFF-F825C955C551_1_105_c.jpeg)
 
 ### Job Tracker
 ![Job Tracker](screenshots/job-tracker.png)
